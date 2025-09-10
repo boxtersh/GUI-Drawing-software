@@ -1,1 +1,1 @@
-![UML диаграмма проекта]("GUI Drawing software.png")
+![UML диаграмма проекта](/GUI Drawing software.png)
